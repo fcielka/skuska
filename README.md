@@ -1,0 +1,2 @@
+# skuska
+tensorflow pokusy
